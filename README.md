@@ -1,4 +1,13 @@
-## Hi there 👋
+## About Me:
+  - ✍🏻 I am currently studying Comp Sci, Maths, Further Maths, Physics at A-Level
+  - 💡 I am always learning new skills and attempting to develop my understanding
+  - 💻 I am always working on projects that interest me
+  - 👀 Currently looking for a work experience placement in software for a week in July 2026
+  - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-schalke-924ab938b)
+    
+# What I'm working on:
+At the moment I'm building a very rudementary and basic bittorrent in order to give myself practical experience in new topics so far including: bencoding, hashing, and git.
+Before this project I haven't used much of git or github so saw this as a good opportunity to build on the little I already did know.
 
 <!--
 **BenSchalke/BenSchalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
